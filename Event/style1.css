@@ -1,0 +1,26 @@
+*{
+    box-sizing: border-box;
+}
+label{
+    top: 1.5;
+    text-align:left;
+    
+}
+
+form
+{
+    background-color: antiquewhite;
+}
+
+.masterElements{
+    margin-top:10px;
+    margin-bottom:10px
+}
+
+input, textarea{
+    text-align: left;
+}
+header{
+    text-align:center;
+    font-size:xx-large
+}
